@@ -1,20 +1,36 @@
-# Angular Homes App
-- Install Angular if you don't have it installed
+# <p align="center">🏡 Angular Homes App</p>
 
-  `npm install -g @angular/cli`
+## 🚀 General info
 
-- Clone this branch to your local machine
+The repository contains an Angular application created as part of a tutorial from the official Angular documentation.
 
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
+![Website Screenshot](screenshot.png)
 
-- Once the code has been downloaded
+## 🛠️ Getting Started
 
-  `cd homes-app`
+### Step 1: 🅰️ Install Angular if you don't have it installed
 
-- Install the depencies
+```
+npm install -g @angular/cli
+```
 
-  `npm install` 
+### Step 2: ⚙️ Install the dependencies
 
-- Run the application 
+```
+npm install
+```
 
-  `ng serve`
+### Step 3: 🏃‍♂️ Run the application
+
+```
+ng serve
+```
+
+```
+json-server --watch db.json
+```
+
+## 📧 Contact
+
+- Email: [karolina.anna.jesionek@gmail.com](mailto:karolina.anna.jesionek@gmail.com)
+- LinkedIn: [Karolina Jesionek - Junior Frontend Developer](https://www.linkedin.com/in/karolina-jesionek-frontend-developer/)
